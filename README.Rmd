@@ -24,7 +24,7 @@ knitr::opts_chunk$set(collapse  = TRUE,
 
 Structure of the research compendium of the [practice 3](https://rdatatoolbox.github.io/ex-targets.html)
 of the training course 
-[**Data Toolbox for Reproducible Research in Ecology**](https://rdatatoolbox.github.io/).
+[**Reproducible Research in Computational Ecology**](https://rdatatoolbox.github.io/).
 
 
 

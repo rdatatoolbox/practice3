@@ -11,7 +11,7 @@ GPL-2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://chooseal
 
 Structure of the research compendium of the [practice
 3](https://rdatatoolbox.github.io/ex-targets.html) of the training
-course [**Data Toolbox for Reproducible Research in
+course [**Reproducible Research in Computational
 Ecology**](https://rdatatoolbox.github.io/).
 
 ### Content
